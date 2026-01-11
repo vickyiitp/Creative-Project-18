@@ -1,0 +1,5 @@
+{
+  "name": "Signal Intercept",
+  "description": "A Cold War era spy radio simulator. Tune frequency and amplitude dials to intercept and decode encrypted signals hidden in the static. Uses Gemini to generate unique cryptic messages.",
+  "requestFramePermissions": []
+}
